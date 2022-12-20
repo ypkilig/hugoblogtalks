@@ -1,2 +1,2 @@
 # hugoblogtalks
-播客评论
+博客评论
